@@ -1,0 +1,73 @@
+commit 84f846d9f9d0f3624203e06f60c5467d49866d83
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 09:08:36 2022 +1000
+
+    dfdfdf
+
+ my_second_file.txt => log/main.html | 0
+ my_first_file.txt                   | 1 -
+ 2 files changed, 1 deletion(-)
+
+commit 51bab1019707352cd9e20fdf7356d64513c64a82
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 09:03:05 2022 +1000
+
+    dfdfdf
+
+ .gitignore | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit c709f618f123f85a2ca83ba29af02a8ccbb4eefe
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 08:59:33 2022 +1000
+
+    ofof
+
+ .gitignore | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 69e106cf1bd3418f4fbf0523ec978b77c8cc122d
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 08:57:40 2022 +1000
+
+    okk
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 94f0dd8932690ea17ce912d3ca5651b75f532b51
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 08:42:42 2022 +1000
+
+    ok3
+
+ task_1_start/my_first_file.txt => my_first_file.txt | 0
+ my_second_file.txt                                  | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a174410c22c28345e2ec43b3dbfa8cffe9ccd0cf
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 08:40:52 2022 +1000
+
+    ok3
+
+ my_first_file.txt => task_1_start/my_first_file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 39fb4b6bca479e405d43b68cf1352283ef0d9d45
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 08:39:34 2022 +1000
+
+    ok2
+
+ my_first_file.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit b92dfc8acc4d0653bba5f0cab62dc6f51e665d26
+Author: Roman Muraro <muraro.rv@students.dvfu.ru>
+Date:   Tue Jan 18 08:37:59 2022 +1000
+
+    ok
+
+ my_first_file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
